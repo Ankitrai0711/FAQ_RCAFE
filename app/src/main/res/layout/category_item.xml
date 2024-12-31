@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginStart="12dp"
+        android:background="@color/whiteSmoke"
+        >
+
+        <TextView
+            android:id="@+id/category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/each_item_drawable"
+            tools:text="order"
+            android:fontFamily="@font/circe"
+            android:paddingVertical="7dp"
+            android:textSize="12dp"
+            android:paddingHorizontal="20dp"
+            android:textColor="@color/dimGray"
+            android:gravity="center"
+             />
+
+
+    </androidx.cardview.widget.CardView>
+</layout>

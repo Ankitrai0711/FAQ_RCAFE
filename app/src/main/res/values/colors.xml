@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="saddleBrown">#8b411b</color>
+    <color name="sealBrown">#361e12</color>
+    <color name="whiteSmoke">#f8f8f8</color>
+    <color name="darkGray">#a2a2a2</color>
+    <color name="dimGray">#696969</color>
+    <color name="medium">#323232</color>
+    <color name="silver">#C5C1C1</color>
+    <color name="shrimmer">#C2C2C2</color>
+    <color name="munsel">#FFF0F0F0</color>
+    <color name="tauprGrey">#FF8D8D8D</color>
+    <color name="red">#A10303</color>
+    <color name="green">#319F36</color>
+    <color name="battleShipGray">#FF868686</color>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="we_r_here_to_help">We\'r here to help!!</string>
+    <string name="top_questions">Top Questions</string>
+    <string name="place_a_delivery_order">Place a Delivery Order</string>
+    <string name="step_1">Step 1</string>
+    <string name="still_not_resolved">Still not resolved?</string>
+    <string name="was_this_helpful">Was this helpful?</string>
+    <string name="faq">FAQ</string>
+</resources>
